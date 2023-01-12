@@ -258,4 +258,12 @@ hr{
            Media Query end
 -------------------------------*/
 
+::selection{
+    background-color: lightseagreen;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
 
